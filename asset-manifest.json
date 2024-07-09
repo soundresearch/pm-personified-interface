@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pm-personified-neutral/static/css/main.da9d8c73.css",
+    "main.js": "/pm-personified-neutral/static/js/main.6039ef2c.js",
+    "static/js/885.4d802ad5.chunk.js": "/pm-personified-neutral/static/js/885.4d802ad5.chunk.js",
+    "static/media/bg.png": "/pm-personified-neutral/static/media/bg.019ce690730b3ad8dd15.png",
+    "static/media/notification_decorative-02.wav": "/pm-personified-neutral/static/media/notification_decorative-02.9739eb741845c22bc913.wav",
+    "static/media/card.png": "/pm-personified-neutral/static/media/card.9c0b7a42dde736b5fcc9.png",
+    "static/media/notification_simple-02.wav": "/pm-personified-neutral/static/media/notification_simple-02.ed804bd16208f38a5b12.wav",
+    "static/media/hero_simple-celebration-03.wav": "/pm-personified-neutral/static/media/hero_simple-celebration-03.ee4b63a104a21221cb4e.wav",
+    "static/media/navigation_forward-selection.wav": "/pm-personified-neutral/static/media/navigation_forward-selection.10a4829520e343fa02b2.wav",
+    "static/media/pm-cr.png": "/pm-personified-neutral/static/media/pm-cr.1ebb2021c51b4ded5a9e.png",
+    "static/media/pm.png": "/pm-personified-neutral/static/media/pm.3230d1f6ff82372ee3e4.png",
+    "static/media/navigation_backward-selection-minimal.wav": "/pm-personified-neutral/static/media/navigation_backward-selection-minimal.32ca67f49aff6b8c7b41.wav",
+    "index.html": "/pm-personified-neutral/index.html",
+    "main.da9d8c73.css.map": "/pm-personified-neutral/static/css/main.da9d8c73.css.map",
+    "main.6039ef2c.js.map": "/pm-personified-neutral/static/js/main.6039ef2c.js.map",
+    "885.4d802ad5.chunk.js.map": "/pm-personified-neutral/static/js/885.4d802ad5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da9d8c73.css",
+    "static/js/main.6039ef2c.js"
+  ]
+}
